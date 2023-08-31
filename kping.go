@@ -1,7 +1,7 @@
-package kping
+package main
 
 import "fmt"
 
 func main() {
-	fmt.Println("KPing")
+	fmt.Println("Hello KPing!")
 }
